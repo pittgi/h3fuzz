@@ -10,6 +10,6 @@ We test for two kinds of RFC 9114 violations:
 # How to
 1. Choose desired backend protocol version and run the desired backend server, e.g. `python3 h1server.py`
 2. Configure (reverse) proxy to accept self-signed certificates
-3. Run script as follows: `python3 https://<proxy-address>/ -g experiment.json -t <timeout-duration-in-sec> -n <number-of-fuzzes>`
+3. Run script as follows: `python3 main.py https://<proxy-address>/ -g experiment.json -t <timeout-duration-in-sec> -n <number-of-fuzzes>`
 
 
