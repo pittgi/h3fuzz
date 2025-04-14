@@ -1,9 +1,9 @@
-cff-version: 1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Gillessen
-    given-names: Peter
+- family-names: "Gillessen"
+  given-names: "Peter"
 title: "h3fuzz"
-version: 1.0
+version: 1.0.0
 date-released: 2025-04-14
 url: "https://github.com/pittgi/h3fuzz"
