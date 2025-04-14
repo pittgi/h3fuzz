@@ -1,0 +1,1 @@
+####REQ_ID_None########H_NAME####req-mthd####H_VALUE####POST####H_NAME####req-pth####H_VALUE####/####H_NAME####req-vrsn####H_VALUE####HTTP/1.1####H_NAME####Host####H_VALUE####localhost:8080####H_NAME####Connection####H_VALUE####close####H_NAME####Content-Length####H_VALUE####3####H_NAME####smuggling-id####H_VALUE####None####BODY####BBB####REQ_END####
